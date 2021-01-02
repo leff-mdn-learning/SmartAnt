@@ -9,7 +9,7 @@
 </head>
 
 <body class="h-screen text-gray-800">
-    <div id="app">
+    <div id="app" class="h-full">
         <Board></Board>
     </div>
 </body>
